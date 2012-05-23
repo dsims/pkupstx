@@ -1,5 +1,6 @@
 pkupstx (pickupsticks) was pitched at Semantic Seed's Atlanta Startup Camp as a "foursquare for products".
 Over the weekend, the idea was studied and a proof-of-concept was created. This is that code.
+
 It was intended for mobile browsers and has typical social networking functionality:
 -Users can follow and be followed.
 -Users see the posts (topics) from people they follow.
@@ -11,6 +12,8 @@ It was intended for mobile browsers and has typical social networking functional
 -Users can signify that they own or want a product.
 -Users can review a product and give it a rating.
 -All user activities are logged and achievements can be given based on activity.
+
+demo: http://pkupstx.com/index_app.php
 
 It was adapted from the code of http://digibutter.nerr.biz and http://digi.vg .... gaming-focused socialnetwork/messageboard sites.
 Most of the quirky digibutter and gaming stuff was ripped out, but you will probably notice some remnants ("products" are "games") and references to other features like openid/rpx and embedded urls.
